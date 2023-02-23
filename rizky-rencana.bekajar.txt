@@ -5,3 +5,5 @@ RENCANA BELAJAR RIZKY
 -DATABASE(MYSQL)
 -API
 -javascript
+*belajar framework
+-pyton
