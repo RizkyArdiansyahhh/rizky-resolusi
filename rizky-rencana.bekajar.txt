@@ -4,5 +4,5 @@ RENCANA BELAJAR RIZKY
 -OOP JAVA
 -API
 -javascript
- *belajar framework
-   ^react
+*belajar framework
+-pyton
