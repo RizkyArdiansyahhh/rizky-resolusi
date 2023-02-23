@@ -5,3 +5,4 @@ RENCANA BELAJAR RIZKY
 -DATABASE(MYSQL)
 -API
 -javascript
+-pyton
