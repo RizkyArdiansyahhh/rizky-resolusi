@@ -2,7 +2,6 @@ RENCANA BELAJAR RIZKY
 -JAVA
 *framework
 -OOP JAVA
--DATABASE(MYSQL)
 -API
 -javascript
 *belajar framework
