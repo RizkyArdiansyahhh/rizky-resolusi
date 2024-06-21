@@ -1,2 +1,3 @@
 -kuasai PHP
 -kuasai javascript
+-belajar peretasan
